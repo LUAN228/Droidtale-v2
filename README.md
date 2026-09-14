@@ -1,5 +1,3 @@
-I'll load the repo-overview ability first to get a comprehensive understanding of the repository, then generate a README.Now I'll gather evidence about the repository:# Droidtale-v2
-
 ## What this is
 
 Droidtale-v2 is an automated builder tool that packages the Undertale game for Android devices. It takes an Undertale `data.win` file, wraps it with a pre-built APK container, manages game assets, and produces a signed Android APK ready for installation on mobile devices.
